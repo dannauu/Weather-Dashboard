@@ -270,6 +270,5 @@ $(document).ready(function () {
       }
       
   
-      // will get location when page initializes
-    //   var location = establishCurrLocation();
+    
     });
